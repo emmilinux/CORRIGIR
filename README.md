@@ -1,5 +1,6 @@
 # corrigir
 
+# Versão 2.2 sid
 Teclado itautec, não reconhece automaticamente.<br>
 gtk2-engines-xfce<br>
 gtk3-engines-xfce<br>
