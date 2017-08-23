@@ -8,3 +8,4 @@ libreoffice-gtk<br>
 libreoffice-gtk3<br>
 nepomuk-core-runtime<br>
 qt4-qtconfig<br>
+unzip (não instalado)
