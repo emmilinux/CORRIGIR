@@ -1,11 +1,4 @@
-# corrigir
+# corrigir / Novas ideias:
 
-# Versão 2.2 sid
-Teclado itautec, não reconhece automaticamente.<br>
-gtk2-engines-xfce<br>
-gtk3-engines-xfce<br>
-libreoffice-gtk<br>
-libreoffice-gtk3<br>
-nepomuk-core-runtime<br>
-qt4-qtconfig<br>
-unzip (não instalado)
+# Versão 2.3 sid
+unzip (não instalado) Sidnei weber
