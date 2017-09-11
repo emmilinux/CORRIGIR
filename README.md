@@ -6,3 +6,6 @@ unzip (não instalado) - Sidnei weber
 Limpar excesso arquivos /etc/skel - Sidnei Weber
 Alterar tela login - Sidnei
 Alterar tema GRUB - Sidnei
+Corrigir favoritos Firefox - Sidnei
+Alterar tela teste impressão CUPS - Sidnei
+Alterar tela abertura Openoffice - Sidnei
