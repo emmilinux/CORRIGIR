@@ -9,3 +9,4 @@ Alterar tema GRUB - Sidnei
 Corrigir favoritos Firefox - Sidnei
 Alterar tela teste impressão CUPS - Sidnei
 Alterar tela abertura Openoffice - Sidnei
+Adicionar atualizações no Painel de controle - Sidnei
