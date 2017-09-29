@@ -12,4 +12,4 @@ Alterar tela teste impressão CUPS - Sidnei
 Alterar tela abertura Openoffice - Sidnei
 Adicionar atualizações no Painel de controle - Sidnei
 Verificar necessidade tela bem vindo - Sidnei
-Melhorar layout VLC - Sidnei
+Melhorar layout VLC, OpenOffice - Sidnei
