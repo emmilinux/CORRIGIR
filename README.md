@@ -1,6 +1,6 @@
 # corrigir / Novas ideias:
 
-# Versão 2.3 sid
+# Versão 2.3
 ```
 unzip (não instalado) - Sidnei weber
 Unrar (não instalado) - Sidnei
