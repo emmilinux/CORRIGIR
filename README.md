@@ -13,3 +13,4 @@ Alterar tela abertura Openoffice - Sidnei
 Adicionar atualizações no Painel de controle - Sidnei
 Verificar necessidade tela bem vindo - Sidnei
 Melhorar layout VLC, OpenOffice - Sidnei
+Instalar Cheese - Sidnei
