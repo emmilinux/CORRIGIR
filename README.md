@@ -5,7 +5,6 @@
 unzip (não instalado) - Sidnei weber
 Unrar (não instalado) - Sidnei
 Limpar excesso arquivos /etc/skel - Sidnei Weber
-Alterar tela login - Sidnei
 Alterar tema GRUB - Sidnei
 Corrigir favoritos Firefox - Sidnei
 Alterar tela teste impressão CUPS - Sidnei
